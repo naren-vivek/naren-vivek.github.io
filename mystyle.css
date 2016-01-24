@@ -1,0 +1,105 @@
+
+                p.header{
+                  font-style: normal;
+                  font-size: 20px;
+                  color:white;
+                }
+                p.normal{
+                  font-style: bold;
+                  font-size: 30px;
+                  color:white;
+                }
+              #top{
+                margin-top: 1cm;
+                background-image: url("assets/Narentharaa.jpg");
+                background-position: 184%;
+                height: 550px;
+                width: 1000px;
+                background-repeat: no-repeat;
+                 /* opacity: 0.5; */
+                
+              }
+               #skills{
+                margin-top: 1cm;
+                background-image: url("assets/Android.jpg");                
+                height:140px;               
+                background-repeat: no-repeat;
+                 /* opacity: 0.5; */
+                
+              }
+              #java{
+                    margin-top: 1cm;
+                background-image: url("assets/java.jpg");
+                height:140px;
+                background-repeat: no-repeat;
+              }
+                #javascript{
+                    margin-top: 1cm;
+                background-image: url("assets/javascript.jpg");
+                height:140px;
+                background-repeat: no-repeat;
+              }
+            
+            
+            p.about_section{
+              margin-top: 1cm;
+              font-style: italic;
+              font-weight: 300;
+              font-size: 20px;
+              color: white;
+
+              
+            }
+             p.work_points{
+
+              font-style: italic;
+              font-weight: 300;
+              font-size: 20px;
+              color: white;
+              /* background-color: #003399; */
+            }
+            p.about{
+              margin-top: 2cm;
+              font-style: bold;
+              font-weight: 600;
+              font-size: 20px;
+              color: white;
+             
+
+              /* background-color: #003399; */
+            }
+             p.work{
+
+              margin-top: 1cm;
+              font-style: italic;
+              font-weight: 300;
+              font-size: 20px;
+              color: white;
+             
+              /* background-color: #003399; */
+            }
+            span.tab{
+             padding: 0 50px; /* Or desired space*/
+            }
+            span.tab1{
+             padding: 0 80px; /* Or desired space*/
+            }
+            p.work_section{
+              margin-top: .1cm;
+              font-style: italic;
+              font-weight: 300;
+              font-size: 20px;
+              color: white;
+               
+              /* background-color: #003399; */
+            }
+            p.copyrights{
+              margin-top: 0.5cm;
+              font-style: normal;
+              font-weight: 100;
+              font-size: 10px;
+              color: white;
+            }
+   .navbar.navbar-inverse {
+    background-color: black;
+}
