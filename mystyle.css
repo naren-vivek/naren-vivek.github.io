@@ -1,7 +1,10 @@
 body {
   background-color:white;
-  background-image:url("assets/topics.jpg");
   font-family: 'Source Sans Pro', sans-serif;
+}
+
+.navbar-inverse .navbar-nav>li>a, .navbar-brand {
+  margin-top: 10px;
 }
 
 p.header{
@@ -9,14 +12,14 @@ p.header{
   font-size: 20px;
   color:white;
 }
+
 p.normal{
   font-style: bold;
   font-size: 30px;
   color:white;
 }
-#top{
-  margin-top: 50px;
-  height: 500px;
+#top {
+  height: 100vh;
 }
 #skills{
   margin-top: 1cm;
@@ -77,19 +80,17 @@ p.work{
 
   /* background-color: #003399; */
 }
-span.tab{
- padding: 0 50px; /* Or desired space*/
-}
+
 span.tab1{
  padding: 0 80px; /* Or desired space*/
 }
-p.work_section{
+
+.work_section{
   margin-top: .1cm;
   font-style: italic;
   font-weight: 300;
   font-size: 20px;
   color: white;
-
   /* background-color: #003399; */
 }
 p.copyrights{
