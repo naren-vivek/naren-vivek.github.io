@@ -21,10 +21,12 @@ p.normal{
 #top {
   height: 100vh;
 }
+
 #skills{
   margin-top: 1cm;
-  background-image: url("assets/Android.jpg");                
-  height:140px;               
+  background-image: url("assets/Android.jpg");
+  background-size: cover;
+  height: 200px;                               
   background-repeat: no-repeat;
   /* opacity: 0.5; */
 
@@ -32,13 +34,15 @@ p.normal{
 #java{
   margin-top: 1cm;
   background-image: url("assets/java.jpg");
-  height:140px;
+  background-size: cover;
+  height: 200px;
   background-repeat: no-repeat;
 }
 #javascript{
   margin-top: 1cm;
   background-image: url("assets/javascript.jpg");
-  height:140px;
+  background-size: cover;
+  height: 200px;
   background-repeat: no-repeat;
 }
 
